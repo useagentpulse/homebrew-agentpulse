@@ -7,7 +7,7 @@ cask "agentpulse" do
   desc "macOS menu bar app that monitors AI coding agent sessions"
   homepage "https://github.com/useagentpulse/agentpulse-app"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "AgentPulse.app"
 
