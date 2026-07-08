@@ -1,6 +1,6 @@
 cask "agentpulse" do
-  version "1.0.0"
-  sha256 "92f4a1466a9f16715cce8a7214a9ebe21affb464df8a0ae02212a3e54d5ebda7"
+  version "1.0.1"
+  sha256 "06a7f0ada95101739989923442a6f615f9801bce8a75954b62888c0382635380"
 
   url "https://github.com/useagentpulse/agentpulse-app/releases/download/v#{version}/AgentPulse-#{version}.dmg"
   name "Agent Pulse"
